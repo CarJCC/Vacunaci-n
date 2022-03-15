@@ -1,0 +1,62 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Izquierda{
+    text-align: left;
+}
+
+.Derecha{
+    text-align: right;
+}
+
+.Centrado{
+    text-align: center;
+}
+
+.Justificado{
+    text-align: justify;
+}
+
+.DecoradoUnderline{
+    text-decoration-line: underline;
+}
+
+
+.Negritas{
+    font-weight: 700;
+}
+
+
+p{
+    font-size: 20px;
+}
+
+.Color_Azul_1{color: #3555d3;}
+
+.Color_Azul_2{color: #1f3e72}
+
+.Color_Gris_1{color: #6d7b93;}
+
+.Titulo_Pequeño_1{
+    color: #1f3e72;
+    font-size: 14px;}
+
+.Titulo_Pequeño_2{
+    color: #1f3e72;
+    font-size: 20px;}
+
+.Titulo_Pequeño_3{
+    color: #6d7b93;
+    font-size: 14px;}    
+
+.Boton_1 {
+    background-color: #3454d2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
